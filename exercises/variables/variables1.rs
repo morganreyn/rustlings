@@ -7,6 +7,7 @@
 // feel ready for the next exercise, remove the `I AM NOT DONE` comment below.
 
 fn main() {
+    // Requires 'let' keyword to create a variable binding
     let x:i8 = 5;
     println!("x has the value {}", x);
 }
